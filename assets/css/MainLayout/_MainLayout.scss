@@ -1,0 +1,14 @@
+@import'../layout/Header';
+@import '../pages/index/index.scss';
+@import'../layout/Footer';
+.wrapper {
+    font-size: 14px;
+    font-family: "Work Sans", sans-serif;
+    ul,
+    ol {
+        list-style-type: none !important;
+    }
+    a {
+        text-decoration: none !important;
+    }
+}
